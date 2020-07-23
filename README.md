@@ -1,1 +1,0 @@
-# xxmakveli22xx.github.io
