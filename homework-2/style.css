@@ -17,20 +17,22 @@ h2{
 }
 
 .navbar{
-    background-color: rgb(104, 50, 50);
+    background-color: rgb(62, 62, 131);        
     color: white;
     font-size: 25px;
-    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif
+    font-family: serif; 
+    text-emphasis-color: whitesmoke ;
 }
 
 .container{
 
- background-color: rgba(164, 165, 163, 0.315);
+ background-color: rgba(50, 55, 83, 0.979);
  width: 25%;
  margin: 0 auto;
  margin-top: 80px;
-    
+ color: black;  
  border: 10px;
+ font-size: 1.75em;
 
 
 
